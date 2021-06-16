@@ -13,3 +13,5 @@
 2021-06-16/03:25:53		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
 2021-06-16/03:36:04		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
 2021-06-16/03:36:04		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
+2021-06-16/07:40:30		 creditCardFraud_28011960_120210.csv: File Transformed successfully!!
+2021-06-16/07:40:31		 creditCardFraud_28011962_120212.csv: File Transformed successfully!!
