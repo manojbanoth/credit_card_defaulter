@@ -1,0 +1,41 @@
+2020-02-19/16:56:37		GoodRaw directory deleted successfully!!!
+2020-02-19/16:56:37		Bad files moved to archive
+2020-02-19/16:56:37		Bad Raw Data Folder Deleted successfully!!
+2020-02-19/17:28:33		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:28:33		GoodRaw directory deleted successfully!!!
+2020-02-19/17:29:28		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:29:29		GoodRaw directory deleted successfully!!!
+2020-02-19/17:32:07		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:32:07		GoodRaw directory deleted successfully!!!
+2020-02-19/17:35:14		BadRaw directory deleted before starting validation!!!
+2020-02-19/17:35:14		GoodRaw directory deleted successfully!!!
+2020-02-19/17:36:11		GoodRaw directory deleted successfully!!!
+2020-02-19/17:36:11		Bad files moved to archive
+2020-02-19/17:36:11		Bad Raw Data Folder Deleted successfully!!
+2020-04-12/21:51:00		GoodRaw directory deleted successfully!!!
+2020-04-12/21:51:00		Bad files moved to archive
+2020-04-12/21:51:00		Bad Raw Data Folder Deleted successfully!!
+2021-06-16/00:24:39		GoodRaw directory deleted successfully!!!
+2021-06-16/00:24:39		Bad files moved to archive
+2021-06-16/00:24:39		Bad Raw Data Folder Deleted successfully!!
+2021-06-16/00:37:55		GoodRaw directory deleted successfully!!!
+2021-06-16/00:37:55		Bad files moved to archive
+2021-06-16/00:37:55		Bad Raw Data Folder Deleted successfully!!
+2021-06-16/00:43:15		GoodRaw directory deleted successfully!!!
+2021-06-16/00:43:15		Bad files moved to archive
+2021-06-16/00:43:15		Bad Raw Data Folder Deleted successfully!!
+2021-06-16/00:49:32		BadRaw directory deleted before starting validation!!!
+2021-06-16/00:49:32		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2021-06-16/00:49:33		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2021-06-16/00:49:34		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2021-06-16/00:49:35		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2021-06-16/00:49:35		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2021-06-16/00:49:41		Error while Deleting Directory : [WinError 32] The process cannot access the file because it is being used by another process: 'Prediction_Raw_Files_Validated/Good_Raw/creditCardFraud_28011960_120210.csv'
+2021-06-16/00:52:05		GoodRaw directory deleted successfully!!!
+2021-06-16/00:52:05		Error while moving bad files to archive:: [WinError 3] The system cannot find the path specified: 'Prediction_Raw_Files_Validated/Bad_Raw/'
+2021-06-16/03:28:45		GoodRaw directory deleted successfully!!!
+2021-06-16/03:28:45		Bad files moved to archive
+2021-06-16/03:28:45		Bad Raw Data Folder Deleted successfully!!
+2021-06-16/03:38:52		GoodRaw directory deleted successfully!!!
+2021-06-16/03:38:52		Bad files moved to archive
+2021-06-16/03:38:52		Bad Raw Data Folder Deleted successfully!!
